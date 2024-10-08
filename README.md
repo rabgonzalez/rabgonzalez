@@ -1,7 +1,10 @@
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ruben / rabgonzalez</h1> 
 
 <h2>🤵 About me</h2>
-📝 I'm currently studying Cross-platform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>
+📝 I'm currently studying Cross-platform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
+🏃 I love sports, I have been practising athletics for the past 10 years.
+🎵 I enjoy listening to music and hanging out with friends.
+🖥️ Coding = fun.
 
 <h2>💻 Tools and Technologies</h2>
 <p align="center">
@@ -33,7 +36,7 @@
 <!--- trophy (start) -->
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&theme=radical&row=1&column=4&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (end) -->
