@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ruben / rabgonzalez</h1> 
 
-> IF YOU CAN DREAM IT, YOU CAN CODE IT ~Fireship
+> If you can dream it, you can code it ~Fireship
 
 <h2>🤵 About me</h2>
 <ul>
