@@ -1,4 +1,5 @@
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ruben / rabgonzalez</h1> 
+> If you can dream it, you can code it ~Fireship
 
 <h2>🤵 About me</h2>
 <ul>
@@ -12,7 +13,7 @@
     🎵 I enjoy listening to music and hanging out with friends.
   </li>
   <li style="display:none">
-    🖥️ Coding = fun.
+    🖥️ Coding = fun (sometimes).
   </li>
 </ul>
 
