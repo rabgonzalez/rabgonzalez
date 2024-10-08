@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ruben / rabgonzalez</h1> 
 
-> If you can dream it, you can code it ~Fireship
+> IF YOU CAN DREAM IT, YOU CAN CODE IT ~Fireship
 
 <h2>🤵 About me</h2>
 <ul>
@@ -66,6 +66,6 @@
 
 ---
 <ul>
-  <li>Lenguage: 🇪🇸</li>
+  <li>Lenguage: 🇪🇸, 󠁧󠁢🇺🇸</li>
   <li>Last modify: 08/10/2024</li>
 </ul>
