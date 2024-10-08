@@ -45,9 +45,7 @@
 <!--- trophy (start) -->
 <tr>
   <td align="center" colspan="2">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&theme=radical&row=1&column=4&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-      </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
   </td>
 </tr>
 </table>
@@ -56,11 +54,14 @@
 
 <h3>🤝 Contact me</h3>
 <div align="center">
-  <a href="rubalba.rag@gmail.com">
+  <a href="mailto:rubalba.rag@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/rub%C3%A9n-abreu-gonz%C3%A1lez-13360830b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <a href="https://www.instagram.com/_rubenag_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
