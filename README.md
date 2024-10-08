@@ -52,7 +52,7 @@
 <!--- trophy (end) -->
 </p> 
 
-<h3>🤝 Contact me</h3>
+<h2>🤝 Contact me</h3>
 <div align="center">
   <a href="mailto:rubalba.rag@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
