@@ -1,18 +1,13 @@
-# Rubén Abreu González
-### Hi there 👋
-Cuenta dedicada a almacenar mis proyectos de Programación
+# Hello 👋 I´m Ruben / rabgonzalez
 
-<!--
-**rabgonzalez/rabgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+## 💻 Tecnologías conocidas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,bootstrap,css,github,html,js,laravel,mongodb&perline=2" />
+  </a>
+</p>
+<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :octocat: Github
