@@ -24,7 +24,7 @@
 </p>
 
 <h2>:octocat: Github Stats</h2>
-<!--- stats (start) -->
+
 <p align="center">
 <table align="left">
 <tr border="none">
@@ -34,22 +34,18 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rabgonzalez&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="40%" align="center">
+<td align="center" rowspan="2">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rabgonzalez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
 <tr>
   <td align="center" colspan="2">
     <img src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&row=1&column=3&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
   </td>
 </tr>
 </table>
-<!--- trophy (end) -->
 </p>
 
 ---
