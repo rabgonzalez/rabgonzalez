@@ -1,10 +1,20 @@
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ruben / rabgonzalez</h1> 
 
 <h2>🤵 About me</h2>
-📝 I'm currently studying Cross-platform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
-🏃 I love sports, I have been practising athletics for the past 10 years.
-🎵 I enjoy listening to music and hanging out with friends.
-🖥️ Coding = fun.
+<ul>
+  <li  style="display:none">
+    📝 I'm currently studying Cross-platform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
+  </li>
+  <li  style="display:none">
+    🏃 I love sports, I have been practising athletics for the past 10 years.
+  </li>
+  <li style="display:none">
+    🎵 I enjoy listening to music and hanging out with friends.
+  </li>
+  <li style="display:none">
+    🖥️ Coding = fun.
+  </li>
+</ul>
 
 <h2>💻 Tools and Technologies</h2>
 <p align="center">
@@ -30,15 +40,17 @@
 
   </td>
 </tr>
-</table>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&theme=radical&row=1&column=4&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+<tr>
+  <td align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&theme=radical&row=1&column=4&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      </a>
+  </td>
+</tr>
+</table>
 <!--- trophy (end) -->
 </p> 
 
@@ -57,7 +69,3 @@
   <li>Lenguage: 🇪🇸</li>
   <li>Last modify: 08/10/2024</li>
 </ul>
----
-<p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
