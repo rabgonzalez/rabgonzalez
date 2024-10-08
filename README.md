@@ -1,32 +1,12 @@
-<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I´m Ruben / rabgonzalez</h1> 
+<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ruben / rabgonzalez</h1> 
 
 <h2>🤵 About me</h2>
 
 <h2>💻 Technologies</h2>
-<table align="center">
-  <tr>
-    <th><h3>Lenguages</h3></th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,php" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th><h3>Web</h3></th>
-  </tr>
-  <tr>
-    <td>
-       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-      </a>
-    </td>
-  </tr>
-</table>
 <p align="center">
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,atom,bash,bootstrap,css,git,github,githubactions,hibernate,html,java,js,jquery,laravel,linux,maven,mongodb,nodejs,php,postman,react,regex,spring,vscode&" />
+  </a>
 </p>
 
 <h2>:octocat: Github</h2>
@@ -61,3 +41,8 @@
 
 <h3>Contacto</h3>
 
+---
+
+<p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
