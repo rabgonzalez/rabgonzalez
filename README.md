@@ -3,6 +3,8 @@
 ## 🤵 About me
 
 ## 💻 Technologies
+- Lenguajes (web)
+- Herramientas
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,bootstrap,css,github,html,js,laravel,mongodb&perline=5" />
@@ -37,7 +39,8 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
-
-
 </p> 
+
+### Contacto
+- linkedin
+- gmail
