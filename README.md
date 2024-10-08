@@ -1,14 +1,42 @@
-<h1 align:"center">Hello 👋 I´m Ruben / rabgonzalez</h1> 
+<h1 align:"center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I´m Ruben / rabgonzalez</h1> 
 
 <h2>🤵 About me</h2>
 
 <h2>💻 Technologies</h2>
-- Lenguajes (web)
-- Herramientas
+<table>
+  <tr>
+    <th><h3>Tools</h3></th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel,react,node,nodemon,git" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th><h3>Lenguages</h3></th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,php" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th><h3>Web</h3></th>
+  </tr>
+  <tr>
+    <td>
+       <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+      </a>
+    </td>
+  </tr>
+</table>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,bootstrap,css,github,html,js,laravel,mongodb&perline=5" />
-  </a>
+  
 </p>
 
 <h2>:octocat: Github</h2>
@@ -19,7 +47,7 @@
 <tr border="none">
 <td width="60%" align="center">
 
-  <br></br> -->
+  <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rabgonzalez&theme=dark&hide_border=false" /> 
 </td>
 
@@ -42,5 +70,4 @@
 </p> 
 
 <h3>Contacto</h3>
-- linkedin
-- gmail
+
