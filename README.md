@@ -5,7 +5,7 @@
 <h2>💻 Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,atom,bash,bootstrap,css,git,github,githubactions,hibernate,html,java,js,jquery,laravel,linux,maven,mongodb,nodejs,php,postman,react,regex,spring,vscode&" />
+    <img src="https://skillicons.dev/icons?i=angular,atom,bash,bootstrap,css,git,github,githubactions,hibernate,html,java,js,jquery,laravel,linux,maven,mongodb,nodejs,php,postman,react,regex,spring,vscode&perline=8" />
   </a>
 </p>
 
