@@ -2,13 +2,13 @@
 
 <h2>🤵 About me</h2>
 <ul>
-  <li  style="display:none">
+  <li>
     📝 I'm currently studying Cross-platform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
   </li>
-  <li  style="display:none">
+  <li>
     🏃 I love sports, I have been practising athletics for the past 10 years.
   </li>
-  <li style="display:none">
+  <li>
     🎵 I enjoy listening to music and hanging out with friends.
   </li>
   <li style="display:none">
@@ -44,7 +44,7 @@
 
 <!--- trophy (start) -->
 <tr>
-  <td align="center">
+  <td align="center" colspan="2">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
         <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&theme=radical&row=1&column=4&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
       </a>
