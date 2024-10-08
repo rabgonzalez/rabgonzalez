@@ -44,8 +44,8 @@
 
 <!--- trophy (start) -->
 <tr>
-  <td align="center" colspan="2">
-    <img src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&row=1&column=6&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
+  <td align="center" colspan="2" width=80%>
+    <img src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&row=1&column=3&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
   </td>
 </tr>
 </table>
