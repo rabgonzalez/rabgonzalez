@@ -18,7 +18,7 @@
   </li>
 </ul>
 
-<h2>💻 Programming lenguages</h2>
+<h2>💻 Programming languages</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,php" />
