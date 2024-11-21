@@ -19,7 +19,7 @@
 </ul>
 
 <h2>💻 Programming lenguages</h2>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,php" />
   </a>
