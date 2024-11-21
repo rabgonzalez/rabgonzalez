@@ -18,10 +18,10 @@
   </li>
 </ul>
 
-<h2>💻 Tools and Technologies</h2>
+<h2>💻 Programming lenguages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,atom,bash,bootstrap,css,git,github,githubactions,hibernate,html,java,js,jquery,laravel,linux,maven,mongodb,nodejs,php,postman,react,regex,spring,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,php" />
   </a>
 </p>
 
@@ -67,5 +67,5 @@
 ---
 <ul>
   <li>Lenguage: 🇪🇸, 󠁧󠁢🇺🇸</li>
-  <li>Last modify: 08/10/2024</li>
+  <li>Last modify: 21/11/2024</li>
 </ul>
