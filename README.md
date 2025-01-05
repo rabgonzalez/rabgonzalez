@@ -8,7 +8,7 @@
     📝 I'm currently studying Cross-platform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
   </li>
   <li>
-    🏃 I love sports, I have been practising athletics for the past 10 years.
+    🏃 I love sports, I have been practising athletics for over the past 10 years.
   </li>
   <li>
     🎵 I enjoy listening to music and hanging out with friends.
@@ -44,7 +44,7 @@
 </tr>
 <tr>
   <td align="center" colspan="2">
-    <img src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&row=1&column=3&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rabgonzalez&row=1&column=5&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
   </td>
 </tr>
 </table>
@@ -67,5 +67,4 @@
 ---
 <ul>
   <li>Language: 🇪🇸, 󠁧󠁢🇺🇸</li>
-  <li>Last modify: 21/11/2024</li>
 </ul>
