@@ -5,7 +5,10 @@
 <h2>🤵 About me</h2>
 <ul>
   <li>
-    📝 I'm currently studying Cross-platform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
+    🚧 Currently working on <a href="https://github.com/JonayKB/Routine-Fights">Routine Fights</a>.
+  </li>
+  <li>
+    📝 I'm studying Cross-platform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
   </li>
   <li>
     🏃 I love sports, I have been practising athletics for over the past 10 years.
