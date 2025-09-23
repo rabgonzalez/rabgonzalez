@@ -5,7 +5,10 @@
 <h2>🤵 About me</h2>
 <ul>
   <li>
-    📝 I'm studying Cross-platform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
+    🎓 Senior technician in Cross-platform application development
+  </li>
+  <li>
+    📝 Currently studying Web application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
   </li>
   <li>
     🏃 I love sports, I have been practising athletics for over the past 10 years.
@@ -21,7 +24,7 @@
 <h2>💻 Programming languages</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,php" />
+    <img src="https://skillicons.dev/icons?i=java,php,py,js,ts" />
   </a>
 </p>
 
