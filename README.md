@@ -1,6 +1,11 @@
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ruben / rabgonzalez</h1> 
 
-> If you can dream it, you can code it ~Fireship
+<div align="center">
+<a href="https://rabgonzalez.github.io/dor_ruben/">
+<img  src="assets/portfolio-preview.png">
+</a>
+<i>Click the image to see portfolio</i>
+</div>
 
 <h2>🤵 About me</h2>
 <ul>
