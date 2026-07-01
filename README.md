@@ -10,10 +10,7 @@
 <h2>🤵 About me</h2>
 <ul>
   <li>
-    🎓 Senior technician in Cross-platform application development
-  </li>
-  <li>
-    📝 Currently studying Web application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Puerto:Telesforo Bravo</a>.
+    🎓 Technician in Cross-platform application development and web development
   </li>
   <li>
     🏃 I love sports, I have been practising athletics for over the past 10 years.
