@@ -1,8 +1,8 @@
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Ruben / rabgonzalez</h1> 
 
 <div align="center">
-<a href="https://rabgonzalez.github.io/dor_ruben/">
-<img  src="assets/portfolio-preview.png">
+<a href="https://rabgonzalez.github.io/portfolio/">
+<img  src="assets/portfolio.png">
 </a>
 <i>Click the image to see portfolio</i>
 </div>
